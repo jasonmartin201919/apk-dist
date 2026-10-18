@@ -1,0 +1,7 @@
+{
+    "note":  "修复正文媒体（视频）播放被 Cleartext 拦截的问题，完善图片/视频展示",
+    "url":  "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/writer-assistant/writer-assistant-v1.1.15.apk",
+    "versionCode":  18,
+    "versionName":  "1.1.15",
+    "sha256":  "1CC3534B7B491FBFAABE3F47A7C9E6BF59666BBC5B9332FEDB720372E3535FB4"
+}
