@@ -1,7 +1,7 @@
-{
-    "note":  "新增应用内更新：设置页检查更新、启动静默检查、GitHub 自动推送升级",
-    "url":  "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/writer-assistant/writer-assistant-v1.1.16.apk",
-    "versionCode":  19,
-    "versionName":  "1.1.16",
-    "sha256":  "4628D91887787234AA992131C7A42F1A0416EF8A8B261DB36544436FBD921047"
+﻿{
+    "note":  "检查更新入口已移至配对页与设置页，新增首页设置按钮",
+    "url":  "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/writer-assistant/writer-assistant-v1.1.17.apk",
+    "versionCode":  20,
+    "versionName":  "1.1.17",
+    "sha256":  "4524F66D711614BF19E2CE315C4A94605850E7F629925F3886F63FBBF4627B3C"
 }
