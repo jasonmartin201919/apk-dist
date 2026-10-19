@@ -1,7 +1,15 @@
 {
-    "url": "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf_mobile_v1.4.1.apk",
-    "versionCode": 19,
-    "versionName": "1.4.1",
+    "url": "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf_mobile_v1.4.2.apk",
+    "versionCode": 20,
+    "versionName": "1.4.2",
     "size": 56434868,
-    "sha256": "90BD07A6B5C5B1619C2C53F66FE8082A635FA59998F2601424B153C1FD0F269E"
+    "sha256": "F46634539CE66CB324F6CA96E0E65244DCCBF6A00D4E82AEC09AB454818BFEE9",
+    "apk_mirrors": [
+        "https://gh-proxy.com/https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf_mobile_v1.4.2.apk",
+        "https://ghfast.top/https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf_mobile_v1.4.2.apk",
+        "https://ghproxy.net/https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf_mobile_v1.4.2.apk",
+        "https://github.moeyy.xyz/https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf_mobile_v1.4.2.apk",
+        "https://gh.api.99988866.xyz/https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf_mobile_v1.4.2.apk",
+        "https://raw.gitmirror.com/jasonmartin201919/apk-dist/main/perf-mobile/perf_mobile_v1.4.2.apk"
+    ]
 }
