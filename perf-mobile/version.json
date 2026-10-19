@@ -1,0 +1,7 @@
+{
+  "versionCode": 11,
+  "versionName": "1.1.0",
+  "url": "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf_mobile_v1.1.0.apk",
+  "sha256": "cbde99013cec0cae618a5645eb8d5126b4a81ed2a833660aa6155e8508cfbf44",
+  "note": "插件化改造：PluginHub + 9 插件（文本/人员解析、计分引擎、批量导入、SQLite、登录认证、物资、版本、内推检查更新）"
+}
