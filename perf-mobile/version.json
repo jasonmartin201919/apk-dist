@@ -1,7 +1,8 @@
 {
-    "note":  "物资管理新增物资弹窗布局优化：加大弹窗尺寸与字段间距",
-    "url":  "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.5.9.apk",
-    "versionCode":  33,
-    "versionName":  "1.5.9",
-    "sha256":  "4BCD70EC0B118119E54D566EB2BE816208E1EB21CD9FC7472B928D048FBE966C"
+    "note":  "v1.6.0 检查更新改为 APK 直链 HEAD+文件名版本比对；物资管理新增顶部按钮组/扫码出入库/二维码/导出Excel",
+    "url":  "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.6.0.apk",
+    "versionCode":  34,
+    "versionName":  "1.6.0",
+    "size":  98334246,
+    "sha256":  "E3F6E69E7FBB924D8DBC116F95468C9CDFAC800D1FDD0908D8184C3FE044CB2F"
 }
