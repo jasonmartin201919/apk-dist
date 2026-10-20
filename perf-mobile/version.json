@@ -1,15 +1,15 @@
 {
-    "url": "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf_mobile_v1.5.5.apk",
-    "versionCode": 29,
-    "versionName": "1.5.5",
-    "size": 56943212,
-    "sha256": "B0FD81E091767CA5A1956CB3F99FCA363EC3439172153ED5A0597E0D15C197C4",
+    "url": "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf_mobile_v1.5.6.apk",
+    "versionCode": 30,
+    "versionName": "1.5.6",
+    "size": 57041516,
+    "sha256": "D6D0659EE0D3541CE5CC177105F09A590DF45105FEE68A7FF2562AEBE7A7D5A5",
     "apk_mirrors": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf_mobile_v1.5.5.apk",
-        "https://ghfast.top/https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf_mobile_v1.5.5.apk",
-        "https://ghproxy.net/https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf_mobile_v1.5.5.apk",
-        "https://github.moeyy.xyz/https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf_mobile_v1.5.5.apk",
-        "https://gh.api.99988866.xyz/https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf_mobile_v1.5.5.apk",
-        "https://raw.gitmirror.com/jasonmartin201919/apk-dist/main/perf-mobile/perf_mobile_v1.5.5.apk"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf_mobile_v1.5.6.apk",
+        "https://ghfast.top/https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf_mobile_v1.5.6.apk",
+        "https://ghproxy.net/https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf_mobile_v1.5.6.apk",
+        "https://github.moeyy.xyz/https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf_mobile_v1.5.6.apk",
+        "https://gh.api.99988866.xyz/https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf_mobile_v1.5.6.apk",
+        "https://raw.gitmirror.com/jasonmartin201919/apk-dist/main/perf-mobile/perf_mobile_v1.5.6.apk"
     ]
 }
