@@ -1,8 +1,8 @@
 {
-    "note":  "v1.6.0 检查更新改为 APK 直链 HEAD+文件名版本比对；物资管理新增顶部按钮组/扫码出入库/二维码/导出Excel",
-    "url":  "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.6.0.apk",
-    "versionCode":  34,
-    "versionName":  "1.6.0",
+    "note":  "v1.6.1 人员批量录入预览增加已存在跳过提示，空解析保存给出明确提示；检查更新直链 HEAD+文件名版本比对",
+    "url":  "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.6.1.apk",
+    "versionCode":  35,
+    "versionName":  "1.6.1",
     "size":  98334246,
-    "sha256":  "E3F6E69E7FBB924D8DBC116F95468C9CDFAC800D1FDD0908D8184C3FE044CB2F"
+    "sha256":  "3C3AF72A819F9B4B012344127C90B69944E4C98330323E4ACE620E26C20AD050"
 }
