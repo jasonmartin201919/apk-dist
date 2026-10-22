@@ -1,8 +1,8 @@
 {
-    "note": "v1.6.4 移除C模式（统一A/B双模式），C模式历史数据自动迁移为A模式",
-    "url": "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.6.4.apk",
-    "versionCode": 38,
-    "versionName": "1.6.4",
-    "size": 98580082,
-    "sha256": "B75953F9417B7B078708D983C3B04DF6BD2B3A8C633C177D26077664C58B8F0F"
+    "note": "v1.6.5 装备柜新增合并显示：按人员分组查看、柜号区间折叠、整组解除、空闲柜批量分配",
+    "url": "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.6.5.apk",
+    "versionCode": 39,
+    "versionName": "1.6.5",
+    "size": 98596698,
+    "sha256": "94FC01CEBBC81E294B23F369D94AB7C2D6A3F1CEC8FDB15C5F791342F4282D7F"
 }
