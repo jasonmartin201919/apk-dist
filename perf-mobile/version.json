@@ -1,8 +1,8 @@
 {
-    "note": "v1.6.3 移除C模式（统一A/B双模式），C模式历史数据自动迁移为A模式",
-    "url": "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.6.3.apk",
-    "versionCode": 37,
-    "versionName": "1.6.3",
+    "note": "v1.6.4 移除C模式（统一A/B双模式），C模式历史数据自动迁移为A模式",
+    "url": "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.6.4.apk",
+    "versionCode": 38,
+    "versionName": "1.6.4",
     "size": 98580082,
-    "sha256": "9F47516C0A5F12431602FA3B3EBBC3CFC025BC2615A570850DB7733F3772B7A0"
+    "sha256": "B75953F9417B7B078708D983C3B04DF6BD2B3A8C633C177D26077664C58B8F0F"
 }
