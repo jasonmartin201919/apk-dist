@@ -1,8 +1,8 @@
 {
-    "note":  "v1.6.2 排名页全部项目总分排名+按天明细得分现算，_loadBase 超时放宽至60s",
-    "url":  "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.6.2.apk",
-    "versionCode":  36,
-    "versionName":  "1.6.2",
-    "size":  98432550,
-    "sha256":  "B21B4E4B15BE4C7AC1B21101314D96D881A45E79AE6428E353AF9BC18FA0C252"
+    "note": "v1.6.3 移除C模式（统一A/B双模式），C模式历史数据自动迁移为A模式",
+    "url": "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.6.3.apk",
+    "versionCode": 37,
+    "versionName": "1.6.3",
+    "size": 98580082,
+    "sha256": "9F47516C0A5F12431602FA3B3EBBC3CFC025BC2615A570850DB7733F3772B7A0"
 }
