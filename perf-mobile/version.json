@@ -1,8 +1,8 @@
 {
-    "note": "v1.6.6 新增奖励分设置模块：B 模式排名规则支持名次数量/最高分/最低分/步长分参数化生成阶梯分表",
-    "url": "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.6.6.apk",
-    "versionCode": 40,
-    "versionName": "1.6.6",
-    "size": 98694998,
-    "sha256": "F097F929F030ED4B829FE6A78D29C937824802C04230D2D7949A31168C96499F"
+    "note": "v1.6.7 项目编辑表单按计分模式显隐字段：A 模式显示基准分+目标量；B 模式显示目标量+达标分+奖励分设置模块（名次数量/最高分/最低分/步长分+阶梯预览），奖励分模块从独立编辑规则弹窗移入表单",
+    "url": "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.6.7.apk",
+    "versionCode": 41,
+    "versionName": "1.6.7",
+    "size": 98449162,
+    "sha256": "73A46AA29F2F5215FC93AB50043C06D0B824E50934A929B3A09E853EA1967039"
 }
