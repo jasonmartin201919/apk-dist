@@ -1,8 +1,8 @@
 {
-    "note": "v1.6.5 装备柜新增合并显示：按人员分组查看、柜号区间折叠、整组解除、空闲柜批量分配",
-    "url": "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.6.5.apk",
-    "versionCode": 39,
-    "versionName": "1.6.5",
-    "size": 98596698,
-    "sha256": "94FC01CEBBC81E294B23F369D94AB7C2D6A3F1CEC8FDB15C5F791342F4282D7F"
+    "note": "v1.6.6 新增奖励分设置模块：B 模式排名规则支持名次数量/最高分/最低分/步长分参数化生成阶梯分表",
+    "url": "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.6.6.apk",
+    "versionCode": 40,
+    "versionName": "1.6.6",
+    "size": 98694998,
+    "sha256": "F097F929F030ED4B829FE6A78D29C937824802C04230D2D7949A31168C96499F"
 }
