@@ -1,8 +1,8 @@
 {
-    "note": "v1.7.0 修复明细记录改删后界面不即时刷新（需退出重进才显示）：任意入口（明细查询/排名明细弹窗/收银式/批量入库）改删后当前页面立即反映新数据；明细查询增强：人员/项目下拉各自新增「全部」选项，筛选互相独立——选人员可查其全部项目、选项目可查其全部人员、双「全部」查全量（person_id/project_id 为 0 或 null 表示全部）",
-    "url": "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.7.0.apk",
-    "versionCode": 44,
-    "versionName": "1.7.0",
+    "note": "v1.7.1 超长名称显示适配修复：移动端全量排查并修复展示人员名/项目名/标题类文本的列表项、卡片、明细行、弹窗、下拉选择项——单行用 Expanded + TextOverflow.ellipsis、多行用 maxLines + ellipsis，确保超长文本不再横向溢出或遮挡右侧数值/按钮/图标（覆盖明细查询项、批量解析预览/待确认项、排名项与按天明细弹窗、首页卡片、收银式录入候选/结果项、人员/项目下拉选项、批量入库预览、物资/后勤页等入口）",
+    "url": "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.7.1.apk",
+    "versionCode": 45,
+    "versionName": "1.7.1",
     "size": 98780612,
-    "sha256": "927A573416C50C9919D170ADEEFE6809B23F5E4C6E928C6359C20623FB197349"
+    "sha256": "B0792F3932EFDADEE61FA678EB1655BE4C37B94BF00B4955247D1CBDEA1DE462"
 }
