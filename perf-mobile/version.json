@@ -1,8 +1,8 @@
 {
-    "note": "v1.6.9 所有明细记录支持修改和删除：1）排名按天明细弹窗每行新增编辑/删除（本地更新/删除 t_record 并自动刷新排名）；2）桌面端人员档案历史记录补齐 person_id/project_id 并新增行内删除按钮，排名明细面板新增编辑/删除；3）后端 /api/records 新增 DELETE 分支（按 id 删除、重复删除返回 404）；4）排名列表监听数据版本自动刷新",
-    "url": "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.6.9.apk",
-    "versionCode": 43,
-    "versionName": "1.6.9",
+    "note": "v1.7.0 修复明细记录改删后界面不即时刷新（需退出重进才显示）：任意入口（明细查询/排名明细弹窗/收银式/批量入库）改删后当前页面立即反映新数据；明细查询增强：人员/项目下拉各自新增「全部」选项，筛选互相独立——选人员可查其全部项目、选项目可查其全部人员、双「全部」查全量（person_id/project_id 为 0 或 null 表示全部）",
+    "url": "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.7.0.apk",
+    "versionCode": 44,
+    "versionName": "1.7.0",
     "size": 98780612,
-    "sha256": "593196324BF7411C7541C0433F1510CADD8FA3F49C848B49BF0CC11A596F8602"
+    "sha256": "927A573416C50C9919D170ADEEFE6809B23F5E4C6E928C6359C20623FB197349"
 }
