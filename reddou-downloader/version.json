@@ -1,7 +1,7 @@
 {
-    "note":  "玉衡中控架构改造+底部双Tab+南大紫主题",
-    "url":  "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/reddou-downloader/reddou-downloader-v1.5.0.apk",
-    "versionCode":  38,
-    "versionName":  "1.5.0",
-    "sha256":  "A9CE739B999785FEACA34DC331608014FF2970079D6015FAD3CB525C827CD6F5"
+    "note":  "修复打开闪退；更新检查/下载多镜像回退（免VPN）；下载进度条增强",
+    "url":  "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/reddou-downloader/reddou-downloader-v1.6.0.apk",
+    "versionCode":  39,
+    "versionName":  "1.6.0",
+    "sha256":  "091CD18C6DA4A1AED3FADD8EFBCE071E028492F488E85FBDA6445B3B076FEC19"
 }
