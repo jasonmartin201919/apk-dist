@@ -1,7 +1,7 @@
 {
-    "versionName": "1.4.30",
-    "versionCode": 36,
-    "url": "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/reddou-downloader/reddou-downloader-v1.4.30.apk",
-    "sha256": "D543FD6DE9EE8CD92698F6520FB13EEEE4951809B7716A309E54201406A836E3",
-    "note": "去镜像改GitHub单源"
+    "note":  "修复推特视频被误判为动图",
+    "url":  "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/reddou-downloader/reddou-downloader-v1.4.31.apk",
+    "versionCode":  37,
+    "versionName":  "1.4.31",
+    "sha256":  "2DD1EDC0B7798BDFBD6A55DD3249F48E567143B5DED06B11ED8D3224F33ECA35"
 }

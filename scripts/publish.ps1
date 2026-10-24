@@ -31,7 +31,7 @@ $sha256 = (Get-FileHash $destApk -Algorithm SHA256).Hash
 Write-Host "[2/5] SHA256 = $sha256"
 
 # 4. 写 version.json（UTF-8 无 BOM）
-$repoName = Split-Path -Leaf $repoRoot
+$repoName = "apk-dist"
 $url = "https://raw.githubusercontent.com/$Owner/$repoName/main/$AppId/$apkName"
 $json = @{
     versionName = $VersionName
