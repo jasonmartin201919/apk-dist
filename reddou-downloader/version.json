@@ -1,7 +1,7 @@
 {
-    "note":  "修复推特视频被误判为动图",
-    "url":  "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/reddou-downloader/reddou-downloader-v1.4.31.apk",
-    "versionCode":  37,
-    "versionName":  "1.4.31",
-    "sha256":  "2DD1EDC0B7798BDFBD6A55DD3249F48E567143B5DED06B11ED8D3224F33ECA35"
+    "note":  "玉衡中控架构改造+底部双Tab+南大紫主题",
+    "url":  "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/reddou-downloader/reddou-downloader-v1.5.0.apk",
+    "versionCode":  38,
+    "versionName":  "1.5.0",
+    "sha256":  "A9CE739B999785FEACA34DC331608014FF2970079D6015FAD3CB525C827CD6F5"
 }
