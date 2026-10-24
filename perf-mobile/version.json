@@ -1,8 +1,8 @@
 {
-    "note": "v1.7.1 超长名称显示适配修复：移动端全量排查并修复展示人员名/项目名/标题类文本的列表项、卡片、明细行、弹窗、下拉选择项——单行用 Expanded + TextOverflow.ellipsis、多行用 maxLines + ellipsis，确保超长文本不再横向溢出或遮挡右侧数值/按钮/图标（覆盖明细查询项、批量解析预览/待确认项、排名项与按天明细弹窗、首页卡片、收银式录入候选/结果项、人员/项目下拉选项、批量入库预览、物资/后勤页等入口）",
-    "url": "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.7.1.apk",
-    "versionCode": 45,
-    "versionName": "1.7.1",
-    "size": 98780612,
-    "sha256": "B0792F3932EFDADEE61FA678EB1655BE4C37B94BF00B4955247D1CBDEA1DE462"
+  "versionName": "1.7.1",
+  "versionCode": 45,
+  "url": "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.7.1.apk",
+  "size": 98780612,
+  "sha256": "7B2135720B908D3B63AF251AB0199B1EB8742B9455422B94B8C3F685ECCCA7EF",
+  "note": "v1.7.1 超长名称显示适配修复（列表项/卡片/明细/下拉 ellipsis），含解除弹窗标题适配"
 }
