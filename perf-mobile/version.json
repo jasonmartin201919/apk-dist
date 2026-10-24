@@ -1,8 +1,8 @@
 {
-    "note": "v1.6.8 修复 6 项问题：1）项目识别错拆修复：关键词命中增加完整性边界校验（24t 不再拆成 24+t），空格仅作数量与单位间的折叠边界；2）指定项目留存：上次选择项目持久化到本地，打开即恢复默认选中；3）数据刷新不稳定：批量入库/导入/还原后自动刷新项目与规则列表；4）导入导出覆盖可撤销：新增「还原导入前数据」入口，备份 .bak 轮转保留上一份；5）已生成记录可修改：明细记录支持编辑人员/项目/数量/日期；6）桌面端批量识别为空：识别引擎放宽单字名与纯英文名、剥离姓名后编号，批量结果展示未识别列表",
-    "url": "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.6.8.apk",
-    "versionCode": 42,
-    "versionName": "1.6.8",
-    "size": 99658478,
-    "sha256": "6B20113858018D1E17634FAA1D23BE4D6FD437C97A5B3DF22BEB8B6FFD3B020C"
+    "note": "v1.6.9 所有明细记录支持修改和删除：1）排名按天明细弹窗每行新增编辑/删除（本地更新/删除 t_record 并自动刷新排名）；2）桌面端人员档案历史记录补齐 person_id/project_id 并新增行内删除按钮，排名明细面板新增编辑/删除；3）后端 /api/records 新增 DELETE 分支（按 id 删除、重复删除返回 404）；4）排名列表监听数据版本自动刷新",
+    "url": "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.6.9.apk",
+    "versionCode": 43,
+    "versionName": "1.6.9",
+    "size": 98780612,
+    "sha256": "593196324BF7411C7541C0433F1510CADD8FA3F49C848B49BF0CC11A596F8602"
 }
