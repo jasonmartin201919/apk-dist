@@ -1,7 +1,7 @@
 {
-    "note":  "升级检查多镜像回退：直连 GitHub raw / jsdelivr CDN / gh-proxy",
-    "url":  "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/reddou-downloader/reddou-downloader-v1.4.29.apk",
-    "versionCode":  35,
-    "versionName":  "1.4.29",
-    "sha256":  "B9236F23B8916343789065FEE8E47AC96F2A2C1746FC3F40EAD6334991B44F91"
+    "versionName": "1.4.30",
+    "versionCode": 36,
+    "url": "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/reddou-downloader/reddou-downloader-v1.4.30.apk",
+    "sha256": "D543FD6DE9EE8CD92698F6520FB13EEEE4951809B7716A309E54201406A836E3",
+    "note": "去镜像改GitHub单源"
 }

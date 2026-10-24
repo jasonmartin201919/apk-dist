@@ -1,3 +1,14 @@
+---
+AIGC:
+    Label: "1"
+    ContentProducer: 001191440300708461136T1XGW3
+    ProduceID: 429ce989457a6c096ee46fed99d82c62_12f17a9dcb2311f196f9525400248c00
+    ReservedCode1: +qSK/QgMefUUMGacxuERPBOMMvMUS/dqVzWAjeuJGDCu8qRUuAOXzR58UrH0gQyfdmMBP9A68+6k+UwZL1Sw74Rm0J43XFc5JP7E9S08g1O9KjO5lWyRHtmYSY3AIPNUMJP5Qga4Y/0dDLkcJhqqEa67mLBC6QuyrYjR+aRctLeP4B8YBiCdmrMZMg8=
+    ContentPropagator: 001191440300708461136T1XGW3
+    PropagateID: 429ce989457a6c096ee46fed99d82c62_12f17a9dcb2311f196f9525400248c00
+    ReservedCode2: +qSK/QgMefUUMGacxuERPBOMMvMUS/dqVzWAjeuJGDCu8qRUuAOXzR58UrH0gQyfdmMBP9A68+6k+UwZL1Sw74Rm0J43XFc5JP7E9S08g1O9KjO5lWyRHtmYSY3AIPNUMJP5Qga4Y/0dDLkcJhqqEa67mLBC6QuyrYjR+aRctLeP4B8YBiCdmrMZMg8=
+---
+
 # 统一 APK 发布与内升级接入规则
 
 本文档是「apk-dist 统一发布仓库」的**通用接入规范**。仓库集中存放所有开发 APK 的安装包与版本清单，App 内置升级检查从此仓库拉取更新，实现全应用无线内升级（免 USB、免应用商店）。
@@ -120,3 +131,4 @@ App 按顺序尝试以下镜像拉取 `version.json`，任一成功即停止：
 2. 发布时用同一 publish.ps1 + 自己的 APP_ID 推送一次，脚本自动创建子目录。
 
 无需改仓库结构、无需改其它应用配置。仓库内各应用相互隔离、互不影响。
+*（内容由AI生成，仅供参考）*
