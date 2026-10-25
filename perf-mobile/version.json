@@ -1,8 +1,8 @@
 {
-  "versionName": "1.7.1",
-  "versionCode": 45,
-  "url": "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.7.1.apk",
+  "versionName": "1.7.2",
+  "versionCode": 46,
+  "url": "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.7.2.apk",
   "size": 98780612,
-  "sha256": "7B2135720B908D3B63AF251AB0199B1EB8742B9455422B94B8C3F685ECCCA7EF",
-  "note": "v1.7.1 超长名称显示适配修复（列表项/卡片/明细/下拉 ellipsis），含解除弹窗标题适配"
+  "sha256": "5C10045C6E6AC19D9A3592D5AA94A9E306775F391406ACADCFB5A35FB1B65D2D",
+  "note": "v1.7.2 批量解析增强：支持项目间空格/顿号等非逗号分隔（东街口7h  整治23单  24t），兼容无冒号姓名/日期（姓名高海峰/日期9月26日）、日期月日间空格（9月 26日）、「高峰 4h」折叠识别"
 }
