@@ -1,8 +1,8 @@
 {
-  "versionName": "1.7.2",
-  "versionCode": 46,
-  "url": "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.7.2.apk",
-  "size": 98780612,
-  "sha256": "5C10045C6E6AC19D9A3592D5AA94A9E306775F391406ACADCFB5A35FB1B65D2D",
-  "note": "v1.7.2 批量解析增强：支持项目间空格/顿号等非逗号分隔（东街口7h  整治23单  24t），兼容无冒号姓名/日期（姓名高海峰/日期9月26日）、日期月日间空格（9月 26日）、「高峰 4h」折叠识别"
+    "note": "移动端 10 项升级：装备柜新增/分配刷新、大屏2x2、人员卡片、床位起止号、平面图、下拉刷新、PDF中文字体",
+    "versionName": "1.9.0",
+    "sha256": "3515F4F29B76A946E21FA851D151CEA2BAE2FBC6BC5C9416B3B7F51DCC5CD5E7",
+    "versionCode": 51,
+    "url": "perf-mobile-v1.9.0.apk",
+    "size": 95250671
 }
