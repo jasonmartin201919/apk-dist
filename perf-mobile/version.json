@@ -1,7 +1,7 @@
 {
-    "note":  "宿舍平面图网格化+人员详情页",
-    "url":  "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.10.0.apk",
-    "versionCode":  52,
-    "versionName":  "1.10.0",
-    "sha256":  "C3EBDFD5B81EE6CC77FDDFC06BEFAF9C3F18027D074AC66A6BA246A4A1DE6B78"
+    "note":  "像素画布双态：300x100细网格平面图编辑/浏览、自定义元件、导出图片；DB v7 迁移",
+    "url":  "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.11.0.apk",
+    "versionCode":  53,
+    "versionName":  "1.11.0",
+    "sha256":  "D7878F1BF272D545622D0CFAA7EDB5377E8E38D58E49D95D8B3268E110DEF7C9"
 }
