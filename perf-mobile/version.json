@@ -1,8 +1,7 @@
-﻿{
-    "note":  "fix map editor: add break to paint switch so wall/floor/window/cabinet/custom/eraser each work standalone (was fall-through clearing cells)",
-    "url":  "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.12.4.apk",
-    "versionCode":  58,
-    "versionName":  "1.12.4",
-    "sha256":  "CC676B8525548893AF6A751AD6A04A1AE46102B97506ABF58C5F96A4D559DAD2",
-    "size":  95545939
+{
+    "note":  "打印修复：激光打印机输出 A4 列表，网络打印机/精臣/印先森输出收银小票；单品标签改为二维码输出",
+    "url":  "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.12.5.apk",
+    "versionCode":  59,
+    "versionName":  "1.12.5",
+    "sha256":  "7E832FFBBD1BFBF2A52326792CF3F016C7E3BAE7150D9FD73142178DEAFA0399"
 }
