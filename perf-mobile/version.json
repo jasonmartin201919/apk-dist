@@ -1,8 +1,8 @@
 ﻿{
-    "note":  "fix dorm map paint: infinite canvas full-viewport paint, allow negative coords, paint on tap",
-    "url":  "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.12.2.apk",
-    "versionCode":  56,
-    "versionName":  "1.12.2",
-    "sha256":  "C7D07CD3EF863161D6ABE73255430BC13AFD06A4FEAB0C88EC6A8949B2EB21C9",
-    "size":  95545763
+    "note":  "dorm map editor: single-finger paint/double-finger pan, panel collapsed; person page: card name only, long-press actions, establishment filter",
+    "url":  "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.12.3.apk",
+    "versionCode":  57,
+    "versionName":  "1.12.3",
+    "sha256":  "A334F7ECE4AA0F2B384F09F4933926796209DE65424BC69917E582EC0C291F4C",
+    "size":  95545943
 }
