@@ -1,7 +1,7 @@
 {
-    "note":  "宿舍平面图无限画布重构：预览态自适应+图纸施工中占位+底部按钮Wrap；编辑态无限格子底板+网格线始终可见+单指涂抹修复+悬浮按钮收展；保存按墙裁剪空白；v8稀疏矩形JSON存储迁移",
-    "url":  "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.12.0.apk",
-    "versionCode":  54,
-    "versionName":  "1.12.0",
-    "sha256":  "D373C563FA8C19828FD09805C5299758DE4D4C68A0A18B2E27CF35F2433B4AF9"
+    "note":  "fix dorm map: button row scroll, full-viewport grid, single-finger paint",
+    "url":  "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.12.1.apk",
+    "versionCode":  55,
+    "versionName":  "1.12.1",
+    "sha256":  "163F4EFA07461325C7E141C7BC974604451197095BB39AB0A2BB7D7A7D3D4AD6"
 }
