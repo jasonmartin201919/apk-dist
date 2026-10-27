@@ -1,8 +1,7 @@
 {
-    "note": "移动端 10 项升级：装备柜新增/分配刷新、大屏2x2、人员卡片、床位起止号、平面图、下拉刷新、PDF中文字体",
-    "versionName": "1.9.0",
-    "sha256": "3515F4F29B76A946E21FA851D151CEA2BAE2FBC6BC5C9416B3B7F51DCC5CD5E7",
-    "versionCode": 51,
-    "url": "perf-mobile-v1.9.0.apk",
-    "size": 95250671
+    "note":  "宿舍平面图网格化+人员详情页",
+    "url":  "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.10.0.apk",
+    "versionCode":  52,
+    "versionName":  "1.10.0",
+    "sha256":  "C3EBDFD5B81EE6CC77FDDFC06BEFAF9C3F18027D074AC66A6BA246A4A1DE6B78"
 }
