@@ -1,8 +1,8 @@
 ﻿{
-    "note":  "dorm map editor: single-finger paint/double-finger pan, panel collapsed; person page: card name only, long-press actions, establishment filter",
-    "url":  "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.12.3.apk",
-    "versionCode":  57,
-    "versionName":  "1.12.3",
-    "sha256":  "A334F7ECE4AA0F2B384F09F4933926796209DE65424BC69917E582EC0C291F4C",
-    "size":  95545943
+    "note":  "fix map editor: add break to paint switch so wall/floor/window/cabinet/custom/eraser each work standalone (was fall-through clearing cells)",
+    "url":  "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.12.4.apk",
+    "versionCode":  58,
+    "versionName":  "1.12.4",
+    "sha256":  "CC676B8525548893AF6A751AD6A04A1AE46102B97506ABF58C5F96A4D559DAD2",
+    "size":  95545939
 }
