@@ -1,7 +1,7 @@
 {
-    "note":  "床位图卡片固定尺寸,文字按字数自适应字号",
-    "url":  "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.12.11.apk",
-    "versionCode":  65,
-    "versionName":  "1.12.11",
-    "sha256":  "296C13D06A6CA383BA44AC77DADA5753C4CAF0E9874CF49FB9057BC8C0622B83"
+    "note": "床位图卡片加大边距与行距,数字汉字与边框留白",
+    "url": "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.12.12.apk",
+    "versionCode": 66,
+    "versionName": "1.12.12",
+    "sha256": "4A7017404FEC0FE044A6E03AD69F29DA6AE3E2287A7E4B7363198EB09A8AC6AB"
 }
