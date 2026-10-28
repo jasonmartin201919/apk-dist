@@ -1,7 +1,7 @@
 {
-    "note":  "宿舍床位图改一行6个+固定卡片自适应",
-    "url":  "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.12.10.apk",
-    "versionCode":  64,
-    "versionName":  "1.12.10",
-    "sha256":  "4A952214BCFAD4B32AACF09B9597E9B7D0F6177690A5F5738F982ED3783AB405"
+    "note":  "床位图卡片固定尺寸,文字按字数自适应字号",
+    "url":  "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.12.11.apk",
+    "versionCode":  65,
+    "versionName":  "1.12.11",
+    "sha256":  "296C13D06A6CA383BA44AC77DADA5753C4CAF0E9874CF49FB9057BC8C0622B83"
 }
