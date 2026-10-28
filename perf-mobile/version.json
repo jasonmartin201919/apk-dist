@@ -1,7 +1,7 @@
 {
-    "note": "床位图卡片加大边距与行距,数字汉字与边框留白",
-    "url": "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.12.12.apk",
-    "versionCode": 66,
-    "versionName": "1.12.12",
-    "sha256": "4A7017404FEC0FE044A6E03AD69F29DA6AE3E2287A7E4B7363198EB09A8AC6AB"
+    "note": "主应用更名人资物资管理系统(修复应用名乱码);床位图加大边距与行距",
+    "url": "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.12.13.apk",
+    "versionCode": 67,
+    "versionName": "1.12.13",
+    "sha256": "C0A302DBFB9F70F1335CBC631B3F4DEBD87AB9D30220672E24090887FF5AFFA2"
 }
