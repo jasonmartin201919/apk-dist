@@ -1,7 +1,7 @@
 {
-  "versionName": "1.12.17",
-  "versionCode": 71,
-  "url": "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.12.17.apk",
-  "sha256": "815762EFB6E479D17F8EA103F37408D1CAF19CFE0CFE81E8951538030B1353FA",
-  "note": "修复装备柜新增后列表不显示：t_cabinet 补 location/capacity 列幂等迁移（覆盖升级与恢复旧库场景），写库失败不再静默"
+  "versionName": "1.12.18",
+  "versionCode": 72,
+  "url": "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.12.18.apk",
+  "sha256": "8F4D240B7F7298C36376ACA67E074CA3D89548B0AF0ACA5F151D8EF47BB9570C",
+  "note": "修复装备柜新增报错 no column named area：启动路径幂等补列(openDatabase 后调用 _applyCabinetColumns)，覆盖版本号=8残缺库场景"
 }
