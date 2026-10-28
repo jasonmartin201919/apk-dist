@@ -1,7 +1,7 @@
 {
-  "versionName": "1.12.16",
-  "versionCode": 70,
-  "url": "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.12.16.apk",
-  "sha256": "A0CC70002EB59F3334D1E96856DAEFA4C468D13C35CB302E85F55F69BAB9754C",
-  "note": "床位卡片姓名「尔」字右半被裁修复：fitFontSize 与 Text 加 textScaler.noScaling，关闭软换行，字号下限6px；记录页按钮与日期显示修复"
+  "versionName": "1.12.17",
+  "versionCode": 71,
+  "url": "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.12.17.apk",
+  "sha256": "815762EFB6E479D17F8EA103F37408D1CAF19CFE0CFE81E8951538030B1353FA",
+  "note": "修复装备柜新增后列表不显示：t_cabinet 补 location/capacity 列幂等迁移（覆盖升级与恢复旧库场景），写库失败不再静默"
 }
