@@ -1,7 +1,7 @@
 {
-  "versionName": "1.12.18",
-  "versionCode": 72,
-  "url": "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.12.18.apk",
-  "sha256": "8F4D240B7F7298C36376ACA67E074CA3D89548B0AF0ACA5F151D8EF47BB9570C",
-  "note": "修复装备柜新增报错 no column named area：启动路径幂等补列(openDatabase 后调用 _applyCabinetColumns)，覆盖版本号=8残缺库场景"
+  "versionName": "1.12.19",
+  "versionCode": 73,
+  "url": "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.12.19.apk",
+  "sha256": "06C88BF36A75DCAAF4626FA7C31A774DFACF3A1C693DE3B4EBD4338CEBBFDF8D",
+  "note": "物资流水记录支持删除(二次确认)；人物详情物资配发修复：个人签收流水按signer姓名兜底匹配+新流水补person_id"
 }
