@@ -1,7 +1,7 @@
 {
-  "note": "修复三处文字自适应：批量解析/明细查询按钮截断、查询日期截断、平面图三字姓名截断",
-  "url": "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.12.14.apk",
-  "versionCode": 68,
-  "versionName": "1.12.14",
-  "sha256": "0AE390F6D5B024FB6B784BD498DDBA7B64132432383AA8874FBA54EF20F91452"
+  "note": "床位卡片姓名被截断修复：关闭文字软换行(softWrap)，三字姓名完整显示；字号收缩下限6px",
+  "url": "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.12.15.apk",
+  "versionCode": 69,
+  "versionName": "1.12.15",
+  "sha256": "A70EFB3EC56A8F7DF95237C0E0226306C3E184321A05689FE95F0C04C5F72FC7"
 }
