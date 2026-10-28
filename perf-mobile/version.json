@@ -1,7 +1,7 @@
 {
-  "note": "床位卡片姓名被截断修复：关闭文字软换行(softWrap)，三字姓名完整显示；字号收缩下限6px",
-  "url": "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.12.15.apk",
-  "versionCode": 69,
-  "versionName": "1.12.15",
-  "sha256": "A70EFB3EC56A8F7DF95237C0E0226306C3E184321A05689FE95F0C04C5F72FC7"
+  "versionName": "1.12.16",
+  "versionCode": 70,
+  "url": "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.12.16.apk",
+  "sha256": "A0CC70002EB59F3334D1E96856DAEFA4C468D13C35CB302E85F55F69BAB9754C",
+  "note": "床位卡片姓名「尔」字右半被裁修复：fitFontSize 与 Text 加 textScaler.noScaling，关闭软换行，字号下限6px；记录页按钮与日期显示修复"
 }
