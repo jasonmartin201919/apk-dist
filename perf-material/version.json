@@ -1,7 +1,7 @@
 {
-    "note":  "物资app 首版：免登录操作人 + 物资台账/出入库/盘库/扫码打印/物资包导入导出",
-    "url":  "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-material/perf-material-v1.0.0.apk",
-    "versionCode":  1,
-    "versionName":  "1.0.0",
-    "sha256":  "740d175f5d17a5264891c13d413d1f3ca0c63ba28bf1a4ada55f7ddf88e118bf"
+    "note":  "新增库区库位管理",
+    "url":  "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-material/perf-material-v1.1.0.apk",
+    "versionCode":  2,
+    "versionName":  "1.1.0",
+    "sha256":  "D8D85C36A5F5D3C4A19304FB2C6BBC207B2A3BE7A0B278D8BA9673C2D888C797"
 }
