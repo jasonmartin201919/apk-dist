@@ -1,7 +1,7 @@
 {
-    "note":  "修复后勤装备柜新增无反应、床位卡片文字重叠",
-    "url":  "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.12.8.apk",
-    "versionCode":  62,
-    "versionName":  "1.12.8",
-    "sha256":  "3562B1E3216DB2804C5C591EBB702E980BBF0F5A936047DC62F9FB43221A359D"
+    "note":  "后勤装备柜两级结构、床位卡片一行两个",
+    "url":  "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.12.9.apk",
+    "versionCode":  63,
+    "versionName":  "1.12.9",
+    "sha256":  "ECA0095CB34799315599F82CEEEAFA20DC4EB8F3273D55FE9D6169A2485A60D5"
 }
