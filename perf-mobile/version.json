@@ -1,7 +1,7 @@
 {
-    "note":  "后勤装备柜两级结构、床位卡片一行两个",
-    "url":  "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.12.9.apk",
-    "versionCode":  63,
-    "versionName":  "1.12.9",
-    "sha256":  "ECA0095CB34799315599F82CEEEAFA20DC4EB8F3273D55FE9D6169A2485A60D5"
+    "note":  "宿舍床位图改一行6个+固定卡片自适应",
+    "url":  "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.12.10.apk",
+    "versionCode":  64,
+    "versionName":  "1.12.10",
+    "sha256":  "4A952214BCFAD4B32AACF09B9597E9B7D0F6177690A5F5738F982ED3783AB405"
 }
