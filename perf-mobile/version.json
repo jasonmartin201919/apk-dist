@@ -1,7 +1,7 @@
 {
-    "note":  "物资互通：人事导出（供物资app导入）、物资包导入/导出、出入库/盘库流水带操作人",
-    "url":  "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.12.6.apk",
-    "versionCode":  60,
-    "versionName":  "1.12.6",
-    "sha256":  "28C425172ABD2B79092A07E514EF6FCF5139C48257A87FE7EF6423C066B85DD9"
+    "note":  "新增库区库位管理；应用更名人资物资管理系统",
+    "url":  "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.12.7.apk",
+    "versionCode":  61,
+    "versionName":  "1.12.7",
+    "sha256":  "5CDA28899E1D0041A5DA3D9D296035D1FA26128950DA17A67BDB4331C0009162"
 }
