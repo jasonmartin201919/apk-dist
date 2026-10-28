@@ -1,7 +1,7 @@
 {
-    "note": "主应用更名人资物资管理系统(修复应用名乱码);床位图加大边距与行距",
-    "url": "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.12.13.apk",
-    "versionCode": 67,
-    "versionName": "1.12.13",
-    "sha256": "C0A302DBFB9F70F1335CBC631B3F4DEBD87AB9D30220672E24090887FF5AFFA2"
+  "note": "修复三处文字自适应：批量解析/明细查询按钮截断、查询日期截断、平面图三字姓名截断",
+  "url": "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.12.14.apk",
+  "versionCode": 68,
+  "versionName": "1.12.14",
+  "sha256": "0AE390F6D5B024FB6B784BD498DDBA7B64132432383AA8874FBA54EF20F91452"
 }
