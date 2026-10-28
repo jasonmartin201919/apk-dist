@@ -1,7 +1,7 @@
 {
-    "note":  "新增库区库位管理；应用更名人资物资管理系统",
-    "url":  "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.12.7.apk",
-    "versionCode":  61,
-    "versionName":  "1.12.7",
-    "sha256":  "5CDA28899E1D0041A5DA3D9D296035D1FA26128950DA17A67BDB4331C0009162"
+    "note":  "修复后勤装备柜新增无反应、床位卡片文字重叠",
+    "url":  "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.12.8.apk",
+    "versionCode":  62,
+    "versionName":  "1.12.8",
+    "sha256":  "3562B1E3216DB2804C5C591EBB702E980BBF0F5A936047DC62F9FB43221A359D"
 }
