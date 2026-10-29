@@ -1,7 +1,7 @@
 {
-  "versionName": "1.12.19",
-  "versionCode": 73,
-  "url": "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.12.19.apk",
-  "sha256": "06C88BF36A75DCAAF4626FA7C31A774DFACF3A1C693DE3B4EBD4338CEBBFDF8D",
-  "note": "物资流水记录支持删除(二次确认)；人物详情物资配发修复：个人签收流水按signer姓名兜底匹配+新流水补person_id"
+  "versionName": "1.12.20",
+  "versionCode": 74,
+  "url": "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.12.20.apk",
+  "sha256": "064CB4C7C8A95061754D5D45AB15231802321924FED22C77C09D2D41A60DFBF6",
+  "note": "物资打印重构 v1.12.20：PDF 票据版式重构+个人/集体签字区、弹窗收敛（系统打印/导出PDF/导出Excel）、出入库领用人可输入并转打印、条目左滑打印、顶部按钮三列自适应"
 }
