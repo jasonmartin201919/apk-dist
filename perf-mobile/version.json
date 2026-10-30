@@ -1,7 +1,7 @@
 {
-    "versionName": "1.12.22",
-    "versionCode": 76,
-    "url": "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.12.22.apk",
-    "sha256": "AAB3C19DE0F10676880192B16FA3CC416C9EAE413A3050A04DF0B2280112700A",
-    "note": "人事档案自定义字段与自动计算、假期管理、档案A4打印、整库备份恢复（P6备份往返验证通过）"
+    "note":  "人事档案扩展关联记录与小票横版支持：档案关联物资流转/维修/后勤记录、打印附带关联记录、小票横版排版",
+    "url":  "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.12.23.apk",
+    "versionCode":  77,
+    "versionName":  "1.12.23",
+    "sha256":  "A418A41C3E9522752F586E57FA816C533C57B6D7BE4EEAC8E07999EC3C1A730E"
 }
