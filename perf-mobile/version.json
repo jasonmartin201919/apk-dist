@@ -1,7 +1,7 @@
 {
-    "note":  "修复小票横版判定：宽度大于高度判为横版（此前误判），横版列宽按(纸宽-6)/44等比放大、字号上限9pt，竖版50x100标签不受影响",
-    "url":  "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.12.24.apk",
-    "versionCode":  78,
-    "versionName":  "1.12.24",
-    "sha256":  "A522479C849062DE12BF40B35A5728146E390BEE09FC25456ECE635C3B46E3C8"
+    "note":  "修复精臣小票标签类自定义尺寸与横版失效(40x30横版)",
+    "url":  "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.12.25.apk",
+    "versionCode":  79,
+    "versionName":  "1.12.25",
+    "sha256":  "42EB1B22E6BCD4731A50EA7BF690C97BFD0677D27E4BBEE40407FA158223EF3B"
 }
