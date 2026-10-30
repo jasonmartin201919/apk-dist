@@ -1,7 +1,7 @@
 {
-  "note": "物资打印标签信息区表格化（行间分隔线+斑马纹保留）、个人签领单签字区、入库单间距>=6pt、小票尺寸自定义、标签表格化样张验证",
-  "url": "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.12.21.apk",
-  "versionCode": 75,
-  "versionName": "1.12.21",
-  "sha256": "04DB2F421BC3F3DF341513BA45E0027A19DC69C931B6BE51FEE3CEEA90F3D1B2"
+    "note":  "\\",
+    "url":  "https://raw.githubusercontent.com/人事档案自定义字段与自动计算、假期管理、档案A4打印、整库备份恢复（P6备份往返验证通过）\\/apk-dist/main/perf-mobile/perf-mobile-v1.12.22.apk",
+    "versionCode":  76,
+    "versionName":  "1.12.22",
+    "sha256":  "AAB3C19DE0F10676880192B16FA3CC416C9EAE413A3050A04DF0B2280112700A"
 }
