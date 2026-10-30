@@ -1,7 +1,7 @@
 {
-    "note":  "人事档案扩展关联记录与小票横版支持：档案关联物资流转/维修/后勤记录、打印附带关联记录、小票横版排版",
-    "url":  "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.12.23.apk",
-    "versionCode":  77,
-    "versionName":  "1.12.23",
-    "sha256":  "A418A41C3E9522752F586E57FA816C533C57B6D7BE4EEAC8E07999EC3C1A730E"
+    "note":  "修复小票横版判定：宽度大于高度判为横版（此前误判），横版列宽按(纸宽-6)/44等比放大、字号上限9pt，竖版50x100标签不受影响",
+    "url":  "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.12.24.apk",
+    "versionCode":  78,
+    "versionName":  "1.12.24",
+    "sha256":  "A522479C849062DE12BF40B35A5728146E390BEE09FC25456ECE635C3B46E3C8"
 }
