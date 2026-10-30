@@ -1,7 +1,7 @@
 {
-  "versionName": "1.12.20",
-  "versionCode": 74,
-  "url": "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.12.20.apk",
-  "sha256": "064CB4C7C8A95061754D5D45AB15231802321924FED22C77C09D2D41A60DFBF6",
-  "note": "物资打印重构 v1.12.20：PDF 票据版式重构+个人/集体签字区、弹窗收敛（系统打印/导出PDF/导出Excel）、出入库领用人可输入并转打印、条目左滑打印、顶部按钮三列自适应"
+  "note": "物资打印标签信息区表格化（行间分隔线+斑马纹保留）、个人签领单签字区、入库单间距>=6pt、小票尺寸自定义、标签表格化样张验证",
+  "url": "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.12.21.apk",
+  "versionCode": 75,
+  "versionName": "1.12.21",
+  "sha256": "04DB2F421BC3F3DF341513BA45E0027A19DC69C931B6BE51FEE3CEEA90F3D1B2"
 }
