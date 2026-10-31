@@ -1,7 +1,7 @@
 {
-    "note":  "修复精臣小票标签类未进热敏链路(40x30横版失效)",
-    "url":  "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.12.26.apk",
-    "versionCode":  80,
-    "versionName":  "1.12.26",
-    "sha256":  "A69B7B5939D86F9C02729143B30278D34B8A8A40CAB3C0A550AA55CFF897A2B4"
+    "note":  "竖版标签型号修复;底部菜单合并5项;人员卡片交互重构+筛选下移+假期录入入口;Excel导入双端(导入结果弹窗/导出导入模板)",
+    "url":  "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.12.27.apk",
+    "versionCode":  81,
+    "versionName":  "1.12.27",
+    "sha256":  "EA5DB961C9639A8090E3B43FE15FA8707C8CC5EF484ED4571B832E2C65C14E2B"
 }
