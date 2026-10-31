@@ -1,7 +1,7 @@
 {
-    "sha256":  "42EB1B22E6BCD4731A50EA7BF690C97BFD0677D27E4BBEE40407FA158223EF3B",
-    "url":  "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.12.25.apk",
-    "versionCode":  79,
-    "note":  "修复精臣小票标签类自定义尺寸与横版失效(40x30横版)",
-    "versionName":  "1.12.25"
+    "note":  "修复精臣小票标签类未进热敏链路(40x30横版失效)",
+    "url":  "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.12.26.apk",
+    "versionCode":  80,
+    "versionName":  "1.12.26",
+    "sha256":  "A69B7B5939D86F9C02729143B30278D34B8A8A40CAB3C0A550AA55CFF897A2B4"
 }
