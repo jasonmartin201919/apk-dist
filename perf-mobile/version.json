@@ -1,7 +1,7 @@
 {
-    "note": "标签打印修复(竖版二维码联动高度防溢出、横版库区库位防裁剪)",
-    "url": "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.12.30.apk",
-    "versionCode": 84,
-    "versionName": "1.12.30",
-    "sha256": "CC4CDA2198DE46F6E54DF286535CB1752B7499E4E19C9F069232EC5E056CC027"
+    "note": "横版标签二维码等高修复(二维码边长=可用高,文字区折行自适应字号)",
+    "url": "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.12.31.apk",
+    "versionCode": 85,
+    "versionName": "1.12.31",
+    "sha256": "d67fa54c73cd69a5b8036536a505978fd7745bcd59f5f8148b388f49e7e008ff"
 }
