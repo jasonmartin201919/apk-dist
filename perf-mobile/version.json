@@ -1,7 +1,7 @@
 {
-    "note": "横版标签二维码等高修复(二维码边长=可用高,文字区折行自适应字号)",
-    "url": "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.12.31.apk",
-    "versionCode": 85,
-    "versionName": "1.12.31",
-    "sha256": "d67fa54c73cd69a5b8036536a505978fd7745bcd59f5f8148b388f49e7e008ff"
+    "note": "Excel导入结果批量处理与批量封存/启用",
+    "url": "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.12.33.apk",
+    "versionCode": 87,
+    "versionName": "1.12.33",
+    "sha256": "436F9E387C470CA63F87D420057A783DCFCCED9C1EC53ABEA547EFF648B78AE9"
 }
