@@ -1,7 +1,7 @@
 {
-    "note": "打印功能三项修复(横版标签库区库位折行+字号下限7.5pt、打印弹窗间距统一10pt、三按钮统一尺寸42高)",
-    "url": "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.12.29.apk",
-    "versionCode": 83,
-    "versionName": "1.12.29",
-    "sha256": "FE9C3D8EEA7D1D2BD31D40E3AB757B6486F7D4AAC7101994CCF8B9206D57B066"
+    "note": "标签打印修复(竖版二维码联动高度防溢出、横版库区库位防裁剪)",
+    "url": "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.12.30.apk",
+    "versionCode": 84,
+    "versionName": "1.12.30",
+    "sha256": "CC4CDA2198DE46F6E54DF286535CB1752B7499E4E19C9F069232EC5E056CC027"
 }
