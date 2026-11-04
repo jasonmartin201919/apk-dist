@@ -1,7 +1,7 @@
 {
-  "note": "修复导入 Excel 报错 custom numFmtId starts at 164 but found a value of 41，样式表归一化后兼容不规范格式文件",
-  "url": "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.12.37.apk",
-  "versionCode": 91,
-  "versionName": "1.12.37",
-  "sha256": "1C5CD3AF5628176591A888CC8803EC17BE09713915F40E71DC1AF40F32EC618C"
+  "note": "修复人事档案导出 PDF 第一页空白：字段表改为自适应切块，避免整节超高被丢弃导致丢页",
+  "url": "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.12.38.apk",
+  "versionCode": 92,
+  "versionName": "1.12.38",
+  "sha256": "D64CBF2C76673B49A780610D7AB34990D53BB57AC97A3034A44B5A3470003C39"
 }
