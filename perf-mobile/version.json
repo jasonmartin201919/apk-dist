@@ -1,7 +1,7 @@
 {
-    "note": "Excel导入结果批量处理与批量封存/启用",
-    "url": "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.12.33.apk",
-    "versionCode": 87,
-    "versionName": "1.12.33",
-    "sha256": "436F9E387C470CA63F87D420057A783DCFCCED9C1EC53ABEA547EFF648B78AE9"
+  "note": "修复导入 Excel 报错 custom numFmtId starts at 164 but found a value of 41，样式表归一化后兼容不规范格式文件",
+  "url": "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.12.37.apk",
+  "versionCode": 91,
+  "versionName": "1.12.37",
+  "sha256": "1C5CD3AF5628176591A888CC8803EC17BE09713915F40E71DC1AF40F32EC618C"
 }
