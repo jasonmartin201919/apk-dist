@@ -2,12 +2,13 @@
 
 ## 下载
 
-| 版本 | 文件 | 大小 |
+| 版本 | 文件 | 说明 |
 |---|---|---|
-| v0.3 | `tuiju-0.3.apk` | 24.5 KB |
+| **v0.4** | `tuiju-0.4.apk` | 当前版本 |
+| v0.3 | `tuiju-0.3.apk` | 可用，但顶部被状态栏遮住 |
 
-直链：
-https://github.com/jasonmartin201919/apk-dist/raw/main/dist/tuiju-0.3.apk
+直链（v0.4）：
+https://github.com/jasonmartin201919/apk-dist/raw/main/dist/tuiju-0.4.apk
 
 ## 安装
 
@@ -17,14 +18,26 @@ https://github.com/jasonmartin201919/apk-dist/raw/main/dist/tuiju-0.3.apk
 
 ## 版本说明
 
-- **v0.3**（versionCode 2）：修复启动闪退。
-  原因是打包时 d8 只编进了 `MainActivity`，内部类 `MainActivity$Bridge`
-  与匿名类 `MainActivity$1` 缺失，启动即抛 `NoClassDefFoundError`。
-  已改为编译全部 class，并在崩溃时把堆栈直接显示在屏幕上。
-- v0.2（versionCode 1）：首个构建，启动即闪退，请勿使用。
+- **v0.4**（versionCode 3）
+  - 修状态栏遮挡：原生层量出系统栏高度并让出，内容不再钻到状态栏底下
+  - 新增「邸报」页：投进来的材料按天编期，一期之内逐条编号（第 N 期 · 第 M 条）
+  - 弹窗标题牌被裁的问题一并修了
+- **v0.3**（versionCode 2）
+  - 修启动闪退（d8 只编进了 MainActivity，内部类缺失）
+- v0.2（versionCode 1）：启动即闪退，请勿使用
 
-## 说明
+## 已知边界
 
-- 独立运行，不依赖电脑
-- 数据只存在本机
-- 未配置模型时只做统计速勘，不做判断
+- **邸报目前只含你手工投的料**。东厂采集（自动盯源、每日自动出报）还没做，
+  所以不会自己冒出新东西来。这是下一件要补的。
+- 图片勘验需要视觉模型
+- 视频不支持
+- 数据只存本机，桌面版与手机版互不相通
+
+## 三色标记
+
+| 标记 | 意思 |
+|---|---|
+| 实 | 材料里直接记载，可回原文 |
+| 推 | 由材料推算 |
+| 判 | 模型判断，不保证对 |
