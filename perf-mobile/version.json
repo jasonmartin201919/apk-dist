@@ -1,7 +1,7 @@
 {
-  "note": "修复人事档案导出 PDF 第一页空白：字段表改为自适应切块，避免整节超高被丢弃导致丢页",
-  "url": "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.12.38.apk",
-  "versionCode": 92,
-  "versionName": "1.12.38",
-  "sha256": "D64CBF2C76673B49A780610D7AB34990D53BB57AC97A3034A44B5A3470003C39"
+  "versionName": "1.13.8",
+  "versionCode": 105,
+  "sha256": "3C903C440D81FE97087C7191E07367A66E65E3A0E802947FDF705922520430B9",
+  "url": "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.13.8.apk",
+  "note": "人员详情与打印：维修记录改为查 t_repair_order 双方向并排除取消/已删除；工单列表三处查询过滤已删除；前端状态映射补「已删除」"
 }

@@ -1,0 +1,7 @@
+{
+    "note":  "接入应用内升级：检查更新入口、version.json 拉取、SHA256 校验、系统安装器静默升级",
+    "url":  "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/repair-reg/repair-reg-v1.1.4.apk",
+    "versionCode":  6,
+    "versionName":  "1.1.4",
+    "sha256":  "AB1F66B0348DBA8CD8AA3BA48A2DC907039C065546B17E9554FE52A2EA5D997F"
+}
