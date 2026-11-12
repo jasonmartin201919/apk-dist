@@ -1,7 +1,7 @@
 {
-    "note":  "新增库区库位管理",
-    "url":  "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-material/perf-material-v1.1.0.apk",
-    "versionCode":  2,
-    "versionName":  "1.1.0",
-    "sha256":  "D8D85C36A5F5D3C4A19304FB2C6BBC207B2A3BE7A0B278D8BA9673C2D888C797"
+    "versionName": "1.2.6",
+    "versionCode": 9,
+    "url": "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-material/perf-material-v1.2.6.apk",
+    "sha256": "11CFD3BEC9D17CC386389F70AD81542340B17BCE6F42E2881FDD87F8F79BC3BB",
+    "note": "打印标定页按可打区居中，修正整框偏左；物资管理页卡片化改造"
 }
