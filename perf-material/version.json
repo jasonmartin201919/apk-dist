@@ -1,7 +1,7 @@
 {
-    "versionName": "1.2.6",
-    "versionCode": 9,
-    "url": "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-material/perf-material-v1.2.6.apk",
-    "sha256": "11CFD3BEC9D17CC386389F70AD81542340B17BCE6F42E2881FDD87F8F79BC3BB",
-    "note": "打印标定页按可打区居中，修正整框偏左；物资管理页卡片化改造"
+    "versionName": "1.2.9",
+    "versionCode": 12,
+    "url": "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-material/perf-material-v1.2.9.apk",
+    "sha256": "53B568690979BC40EE33691290C232864D6A3CCB0DFA65331D66F315E4AAADDC",
+    "note": "新增双端统一数据交换中心（perf.data/v1）：端与端数据传递与表格导入导出分离；物资出库电子签名并存档"
 }

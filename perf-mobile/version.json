@@ -1,7 +1,7 @@
 {
-    "versionName": "1.14.4",
-    "versionCode": 111,
-    "url": "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.14.4.apk",
-    "sha256": "7F39353D21FE3722832CE185E3603B1A531025D82429C3DAD0A13367ED722C53",
-    "note": "物资管理页卡片化改造：顶部操作收进胶囊抽屉，列表改卡片布局；打印标定页按可打区居中，修正整框偏左；发布包按版本号命名"
+    "versionName": "1.14.7",
+    "versionCode": 114,
+    "url": "https://raw.githubusercontent.com/jasonmartin201919/apk-dist/main/perf-mobile/perf-mobile-v1.14.7.apk",
+    "sha256": "F446F1BE981C6082F8A2F333DCB5AE9AC54FE35E1168E916507AF7ED992C218E",
+    "note": "票据标题改两行中英文结构并加粗放大、签字区改矩形框、页脚增加不允许拍照；物资出库增加电子签名并存档；新增双端统一数据交换中心（perf.data/v1）；修复桌面端 404"
 }
